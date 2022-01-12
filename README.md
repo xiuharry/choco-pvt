@@ -1,0 +1,1 @@
+choco install googlechrome notepadplusplus python3 vlc powershell git openssh wget curl k-litecodecpackfull spotify microsoft-windows-terminal chocolateygui whiteshark dotnetcore audacity dotnetcore-runtime powertoys ffmpeg
